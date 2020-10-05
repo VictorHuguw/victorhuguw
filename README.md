@@ -45,7 +45,8 @@
 ![](https://img.shields.io/badge/database-mysql-green)
 ![](https://img.shields.io/badge/database-sqlite-green)
 ![](https://img.shields.io/badge/database-mongoDB-green)
-
+![](https://img.shields.io/badge/tools-sonar-green)
+![](https://img.shields.io/badge/tools-jenkins-green)
 
 
 ![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=victorhuguw&show_icons=true&theme=radical)
