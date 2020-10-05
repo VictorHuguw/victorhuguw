@@ -58,7 +58,7 @@
 
 <p align="left">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-origin.svg"
+      src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
       alt="javascript"
       width="40"
       height="40"
@@ -69,7 +69,6 @@
       width="40"
       height="40"
     />
-  </a>
   <a href="https://www.jenkins.io" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
