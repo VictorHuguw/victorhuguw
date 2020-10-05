@@ -45,7 +45,7 @@
       height="40"
     />
       <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/ionic/ionic-original-original.svg"
+      src="https://devicons.github.io/devicon/devicon.git/icons/ionic/ionic-original.svg"
       alt="php"
       width="40"
       height="40"
