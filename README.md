@@ -57,22 +57,6 @@
 <br/>
 
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank">
-    <img
-      src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor"
-      alt="aws"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/typescript-original.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
@@ -100,14 +84,7 @@
       height="40"
     />
   </a>
-  <a href="https://kubernetes.io" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
-      alt="kubernetes"
-      width="40"
-      height="40"
-    />
-  </a>
+
   <a href="https://www.mongodb.com/" target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
@@ -128,14 +105,6 @@
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"
       alt="postgresql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.rabbitmq.com" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"
-      alt="rabbitMQ"
       width="40"
       height="40"
     />
