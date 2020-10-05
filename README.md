@@ -14,7 +14,7 @@
 - [The journey to becoming a full stack developer](https://medium.com/@victorhuguw.64/a-jornada-at%C3%A9-se-tornar-um-desenvolvedor-full-stack-5c902572d0bc)
 - [Javascript requests with fetch api](https://medium.com/@victorhuguw.64/javascript-requisi%C3%A7%C3%B5es-com-fetchapi-418e3b35daf9)
 - [Web push notifications with angular](https://medium.com/@victorhuguw.64/web-push-notifications-com-angular-d1a0c7977b18)
-- [Building a Beautiful Progressive JAMstack Blog Part 1: Day 1 to 3](https://blog.stephenajulu.com/post/building-a-beautiful-progressive-jamstack-blog-part-1-day-1-to-3/)
+- [Developing my first pwa application](https://medium.com/@victorhuguw.64/desenvolvendo-meu-primeiro-aplicativo-pwa-430d7b8de786)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💼 Where i am currently working at/as
