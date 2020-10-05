@@ -10,7 +10,7 @@
 
 ### 📰 Medium Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Simple Personal URL Shortener with GitHub, Netlify and an Affordable Domain Name](https://blog.stephenajulu.com/post/how-to-create-a-simple-personal-url-shortener-with-github-netlify-and-an-affordable-domain-name/)
+- Building a rest api using nodejs, express and mysql - Part 1](https://medium.com/@victorhuguw.64/construindo-uma-rest-api-utilizando-nodejs-express-e-mysql-parte-1-ef25643ab41b)
 - [How to Create a Dev Environment in Windows 10: Part 1](https://blog.stephenajulu.com/post/how-to-create-a-dev-environment-in-windows-10-part-1/)
 - [Resources for Building a Beautiful Progressive JAMstack Blog](https://blog.stephenajulu.com/post/resources-for-building-a-beautiful-progressive-jamstack-blog/)
 - [Building a Beautiful Progressive JAMstack Blog Part 2: Day 4 to 7](https://blog.stephenajulu.com/post/building-a-beautiful-progressive-jamstack-blog-part-2-day-4-to-7/)
