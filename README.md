@@ -62,6 +62,12 @@
       width="40"
       height="40"
     />
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
+      alt="jenkins"
+      width="40"
+      height="40"
+    />
     
 </p>
 
