@@ -56,111 +56,14 @@
       width="40"
       height="40"
     />
-<!--     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/laravel-plain.svg"
-      alt="jenkins"
-      width="40"
-      height="40"
-    />
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg"
-      alt="jenkins"
-      width="40"
-      height="40"
-    />
      <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg"
+      src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain.svg"
       alt="jenkins"
       width="40"
       height="40"
     />
-     <img
-      src="https://www.vectorlogo.zone/logos/icons/git/git-original.svg"
-      alt="jenkins"
-      width="40"
-      height="40"
-    />
-    <img
-      src="https://www.vectorlogo.zone/logos/icons/mongodb/mongodb-original.svg"
-      alt="jenkins"
-      width="40"
-      height="40"
-    />
-    <img
-      src="https://www.vectorlogo.zone/logos/icons/python/python-original.svg"
-      alt="jenkins"
-      width="40"
-      height="40"
-    />
-    <img
-      src="https://www.vectorlogo.zone/logos/icons/angularjs/angularjs-original.svg"
-      alt="jenkins"
-      width="40"
-      height="40"
-    />
-    <img
-      src="https://www.vectorlogo.zone/logos/icons/c/c-original.svg"
-      alt="jenkins"
-      width="40"
-      height="40"
-    />
-    <img
-      src="https://www.vectorlogo.zone/logos/icons/jquery/jquery-original.svg"
-      alt="jenkins"
-      width="40"
-      height="40"
-    />
-  
-  <a href="https://jestjs.io" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
-      alt="jest"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-</p> -->
+    
+</p>
 
 
 
