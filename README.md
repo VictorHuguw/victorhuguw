@@ -57,19 +57,19 @@
       height="40"
     />
 <!--     <img
-      src="https://www.vectorlogo.zone/logos/icons/laravel/laravel-plain.svg"
+      src=""https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain.svg"
       alt="jenkins"
       width="40"
       height="40"
     />
     <img
-      src="https://www.vectorlogo.zone/logos/icons/mysql/mysql-original.svg"
+      src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg"
       alt="jenkins"
       width="40"
       height="40"
     />
      <img
-      src="https://www.vectorlogo.zone/logos/icons/npm/npm-original-wordmark.svg"
+      src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg"
       alt="jenkins"
       width="40"
       height="40"
