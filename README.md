@@ -57,7 +57,7 @@
       height="40"
     />
 <!--     <img
-      src=""https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain.svg"
+      src="https://devicons.github.io/devicon/devicon.git/icons/laravel-plain.svg"
       alt="jenkins"
       width="40"
       height="40"
