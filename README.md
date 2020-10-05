@@ -57,24 +57,15 @@
 <br/>
 
 <p align="left">
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-  >
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+      src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-origin.svg"
       alt="javascript"
       width="40"
       height="40"
     />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-  >
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/javascript/php-original.svg"
-      alt="javascript"
+      src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg"
+      alt="php"
       width="40"
       height="40"
     />
