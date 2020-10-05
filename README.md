@@ -22,9 +22,9 @@
 
 ### 📫 Where to find me
 
-- [Instagram](https://instagram.com/stephenajulu) 😎
-- [LinkedIn](https://linkedin.com/in/stephenajulu) 👨💼
-- [Medium](https://stephenajulu.com) 😏🔗
+- [Instagram](https://instagram.com/stephenajulu) 
+- [LinkedIn](https://www.linkedin.com/in/victor-hugo-b7835916b/) 
+- [Medium](https://medium.com/@victorhuguw.64) 
 
 ## 🔧 Technologies & Tools
 
