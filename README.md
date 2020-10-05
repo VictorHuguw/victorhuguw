@@ -8,12 +8,5 @@ How I am?
 
   * I’m currently working on
   ![Anurag's github stats]
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=victorhuguw&show_icons=true&theme=radical" /> 
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=victorhuguw&show_icons=true&theme=radical" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhuguw&layout=compact" /> 
+
