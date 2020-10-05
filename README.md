@@ -3,7 +3,7 @@
     <img align="center" height="430" src="banner.png" />
 </p>
 
-<p align="center">I'm a system analysy in samsung Manaus, today i work with PHP, but i have more than 3 year experience in others tecnologies related javascript </p>
+<p align="center">Hi guys, my name is victor and I'm 21 years old, currently I work as a systems analyst at samsaung here in Manaus, but I also worked as a frontend developer at the city hall, I have solid knowledge in development, modeling and implementation of web systems, I have already worked with various technologies being mostly frameworks</p>
 
 ### 📰 Medium Posts
 <!-- BLOG-POST-LIST:START -->
