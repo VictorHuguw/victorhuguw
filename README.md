@@ -8,3 +8,6 @@ How I am?
 
   * I’m currently working on
   
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhuguw&theme=dark" />
+
+  
