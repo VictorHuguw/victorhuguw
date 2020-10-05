@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
 <p align='center'>
-    <img align="center" height="410" src="banner.png" />
+    <img align="center" height="510" src="banner.png" />
 </p>
 
 <p align="center">I'm a system analysy in samsung Manaus, today i work with PHP, but i have more than 3 year experience in others tecnologies related javascript </p>
