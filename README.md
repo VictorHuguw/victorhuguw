@@ -45,73 +45,67 @@
       height="40"
     />
       <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/ionic-original/ionic-original-original.svg"
+      src="https://devicons.github.io/devicon/devicon.git/icons/ionic/ionic-original-original.svg"
       alt="php"
       width="40"
       height="40"
     />
     <img
-      src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
+      src="https://www.vectorlogo.zone/logos/icons/bootstrap/bootstrap-plain.svg"
       alt="jenkins"
       width="40"
       height="40"
     />
     <img
-      src="https://www.vectorlogo.zone/logos/bootstrap/bootstrap-plain.svg"
+      src="https://www.vectorlogo.zone/logos/icons/laravel/laravel-plain.svg"
       alt="jenkins"
       width="40"
       height="40"
     />
     <img
-      src="https://www.vectorlogo.zone/logos/laravel/laravel-plain.svg"
-      alt="jenkins"
-      width="40"
-      height="40"
-    />
-    <img
-      src="https://www.vectorlogo.zone/logos/mysql/mysql-original.svg"
+      src="https://www.vectorlogo.zone/logos/icons/mysql/mysql-original.svg"
       alt="jenkins"
       width="40"
       height="40"
     />
      <img
-      src="https://www.vectorlogo.zone/logos/npm/npm-original-wordmark.svg"
+      src="https://www.vectorlogo.zone/logos/icons/npm/npm-original-wordmark.svg"
       alt="jenkins"
       width="40"
       height="40"
     />
      <img
-      src="https://www.vectorlogo.zone/logos/git/git-original.svg"
+      src="https://www.vectorlogo.zone/logos/icons/git/git-original.svg"
       alt="jenkins"
       width="40"
       height="40"
     />
     <img
-      src="https://www.vectorlogo.zone/logos/mongodb/mongodb-original.svg"
+      src="https://www.vectorlogo.zone/logos/icons/mongodb/mongodb-original.svg"
       alt="jenkins"
       width="40"
       height="40"
     />
     <img
-      src="https://www.vectorlogo.zone/logos/python/python-original.svg"
+      src="https://www.vectorlogo.zone/logos/icons/python/python-original.svg"
       alt="jenkins"
       width="40"
       height="40"
     />
     <img
-      src="https://www.vectorlogo.zone/logos/angularjs/angularjs-original.svg"
+      src="https://www.vectorlogo.zone/logos/icons/angularjs/angularjs-original.svg"
       alt="jenkins"
       width="40"
       height="40"
     />
     <img
-      src="https://www.vectorlogo.zone/logos/c/c-original.svg"
+      src="https://www.vectorlogo.zone/logos/icons/c/c-original.svg"
       alt="jenkins"
       width="40"
       height="40"
     />
     <img
-      src="https://www.vectorlogo.zone/logos/jquery/jquery-original.svg"
+      src="https://www.vectorlogo.zone/logos/icons/jquery/jquery-original.svg"
       alt="jenkins"
       width="40"
       height="40"
