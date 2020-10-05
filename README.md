@@ -58,11 +58,16 @@
 
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank">
-    <i class="devicon-devicon-plain"></i>
+    <img
+      src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor"
+      alt="aws"
+      width="40"
+      height="40"
+    />
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"
+      src="https://devicons.github.io/devicon/typescript-original.svg"
       alt="docker"
       width="40"
       height="40"
