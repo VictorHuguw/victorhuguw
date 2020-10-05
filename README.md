@@ -74,6 +74,24 @@
       width="40"
       height="40"
     />
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/ionic/ionic-original.svg"
+      alt="jenkins"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/html/html5-original.svg"
+      alt="jenkins"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg"
+      alt="jenkins"
+      width="40"
+      height="40"
+    />
     
 </p>
 
