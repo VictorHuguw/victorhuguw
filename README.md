@@ -3,7 +3,6 @@
     <img align="center" height="410" src="banner.png" />
 </p>
 
-<h2 align="center">Hello there! My name is Victor Hugo. 👋🤓</h2>
 <p align="center">I'm a system analysy in samsung Manaus, today i work with PHP, but i have more than 3 year experience in others tecnologies related javascript </p>
 
 ### 📰 Medium Posts
