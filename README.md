@@ -18,7 +18,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### 💼 Where i am currently working at/as
-- [SAMSUNG: System Analyst] 💼 
+- [SAMSUNG - System Analyst]
 
 ### 📫 Where to find me
 
