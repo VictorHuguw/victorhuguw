@@ -8,9 +8,7 @@
 <h2 align="center">Hello there! My name is Victor Hugo. 👋🤓</h2>
 <p align="center">I'm a system analysy in samsung Manaus, today i work with PHP, but i have more than 3 year experience in others tecnologies related javascript </p>
 
-<h3 align="center"> Interested in Collaborating or Donating/Sponsering My Projects? Click <a href="https://github.com/stephenajulu/stephenajulu/blob/master/PROJECTS.md">here</a> </h3>
-
-### 📰 Blog Posts
+### 📰 Medium Posts
 <!-- BLOG-POST-LIST:START -->
 - [How to Create a Simple Personal URL Shortener with GitHub, Netlify and an Affordable Domain Name](https://blog.stephenajulu.com/post/how-to-create-a-simple-personal-url-shortener-with-github-netlify-and-an-affordable-domain-name/)
 - [How to Create a Dev Environment in Windows 10: Part 1](https://blog.stephenajulu.com/post/how-to-create-a-dev-environment-in-windows-10-part-1/)
@@ -20,30 +18,12 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### 💼 Where i am currently working at/as
-- [OwlSec Technologies: Founder and Consultant](https://owlsectechnologies.co.ke) 💼 
-- [TechWit Ke: Chief Editor, Developer and Founder](https://techwit3.netlify.com) ✒
-- [Open World: Freelance](https://stephenajulu.com)
-
-### 💻 What i am currently/done working on
-- [GreeetinCard](https://greeetincard.crd.co)  🚀
-- Tech6  🚀 *coming soon*
-- [T.H.I.S](https://this1.netlify.app)  🚀 *coming very soon*
-- BioEmergency & Biomme  🚀 *coming soon*
-- Quevant  🚀 *coming very soon* 🚀
-- [TechWit Ke](https://techwit2.netlify.app)  🚀 *coming very soon* 🚀
-- Lofied  🚀 *coming soon*
-- [Ajulu's Thoughts New Website](https://ajulusthoughts3.netlify.app)  🚀 *coming very soon*
+- [SAMSUNG: System Analyst] 💼 
 
 ### 📫 Where to find me
-- [Facebook](https://facebook.com/stephenajulu) 😏
-- [Twitter](https://twitter.com/stephenajulu) 🐤
+
 - [Instagram](https://instagram.com/stephenajulu) 😎
 - [LinkedIn](https://linkedin.com/in/stephenajulu) 👨💼
-- [Website](https://stephenajulu.com) 😏🔗
-- [Blog](https://ajulusthoughts.wordpress.com) 🤓💻
-- [Additional places to find me](https://stephenajulu.com/links) 🔗🔗
-- [Sign up for my newsletter](https://ajulusthoughts.substack.com) 💌
-- [New Blog: Coming Soon](https://ajulusthoughts3.netlify.app) 🔨✒
-- [TechWit Ke: Also Coming Soon](https://techwit2.netlify.app) 🔨✒
+- [Medium](https://stephenajulu.com) 😏🔗
 
-![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=stephenajulu&show_icons=true&theme=radical)
+![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=victorhuguw&show_icons=true&theme=radical)
