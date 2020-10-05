@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
 <p align='center'>
-    <img align="center" src="banner.png" />
+    <img align="center" width="510" src="banner.png" />
 </p>
 
 <h2 align="center">Hello there! My name is Victor Hugo. 👋🤓</h2>
