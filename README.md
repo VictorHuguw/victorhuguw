@@ -51,12 +51,12 @@
       height="40"
     />
     <img
-      src="https://www.vectorlogo.zone/logos/icons/bootstrap/bootstrap-plain.svg"
+      src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg"
       alt="jenkins"
       width="40"
       height="40"
     />
-    <img
+<!--     <img
       src="https://www.vectorlogo.zone/logos/icons/laravel/laravel-plain.svg"
       alt="jenkins"
       width="40"
@@ -160,7 +160,7 @@
       height="40"
     />
   </a>
-</p>
+</p> -->
 
 
 
