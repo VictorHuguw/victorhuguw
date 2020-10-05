@@ -104,6 +104,12 @@
       width="40"
       height="40"
     />
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/npm-original/npm-original-wordmark.svg"
+      alt="jenkins"
+      width="40"
+      height="40"
+    />
     
 </p>
 
