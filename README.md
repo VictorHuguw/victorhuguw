@@ -3,7 +3,7 @@
     <img align="center" height="500" src="banner.png" />
 </p>
 
-<p align="center">Hi guys, my name is victor and I'm 21 years old, currently I work as a systems analyst at samsaung here in Manaus, but I also worked as a frontend developer at the city hall, I have solid knowledge in development, modeling and implementation of web systems, I have already worked with various technologies being mostly frameworks</p>
+<p align="center">Hello guys, my name is victor and I'm 21 years old, I currently work as a systems analyst at Samsung here in Manaus, but I also worked as a frontend developer at the city hall, I have solid knowledge in development, modeling and implementation of web systems. I have worked with several technologies, mostly javascript frameworks. I like lasagna, beer and some coffee</p>
 
 ### 📰 Medium Posts
 <!-- BLOG-POST-LIST:START -->
