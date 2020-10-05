@@ -36,8 +36,8 @@
 ![](https://img.shields.io/badge/code-javascript-green)
 ![](https://img.shields.io/badge/framework-angular-green)
 ![](https://img.shields.io/badge/framework-react-green)
-![](https://img.shields.io/badge/framework-react native-green)
-![](https://img.shields.io/badge/framework-node-green)
+![](https://img.shields.io/badge/framework-react-native-green)
+![](https://img.shields.io/badge/framework-nodejs-green)
 
 
 ![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=victorhuguw&show_icons=true&theme=radical)
