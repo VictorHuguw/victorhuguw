@@ -27,31 +27,6 @@
 - [LinkedIn](https://www.linkedin.com/in/victor-hugo-b7835916b/) 
 - [Medium](https://medium.com/@victorhuguw.64) 
 
-## 🔧 Technologies & Tools
-
-![](https://img.shields.io/badge/code-typescript-green)
-![](https://img.shields.io/badge/code-python-green)
-![](https://img.shields.io/badge/code-php-green)
-![](https://img.shields.io/badge/code-c-green)
-![](https://img.shields.io/badge/code-jquery-green)
-![](https://img.shields.io/badge/code-javascript-green)
-![](https://img.shields.io/badge/framework-angular-green)
-![](https://img.shields.io/badge/framework-react-green)
-![](https://img.shields.io/badge/framework-react-native-green)
-![](https://img.shields.io/badge/framework-nodejs-green)
-![](https://img.shields.io/badge/framework-ionic-green)
-![](https://img.shields.io/badge/framework-laravel-green)
-![](https://img.shields.io/badge/framework-jungle-green)
-![](https://img.shields.io/badge/framework-bootstrap-green)
-![](https://img.shields.io/badge/database-mysql-green)
-![](https://img.shields.io/badge/database-sqlite-green)
-![](https://img.shields.io/badge/database-mongoDB-green)
-![](https://img.shields.io/badge/tools-sonar-green)
-![](https://img.shields.io/badge/tools-jenkins-green)
-![](https://img.shields.io/badge/tools-jenkins-git)
-![](https://img.shields.io/badge/tools-jenkins-npm)
-![](https://img.shields.io/badge/tools-jenkins-composer)
-
 ### 🔧 Languages and Tools
 
 <br/>
@@ -69,14 +44,79 @@
       width="40"
       height="40"
     />
-  <a href="https://www.jenkins.io" target="_blank">
+      <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/ionic-original/ionic-original-original.svg"
+      alt="php"
+      width="40"
+      height="40"
+    />
     <img
       src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
       alt="jenkins"
       width="40"
       height="40"
     />
-  </a>
+    <img
+      src="https://www.vectorlogo.zone/logos/bootstrap/bootstrap-plain.svg"
+      alt="jenkins"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://www.vectorlogo.zone/logos/laravel/laravel-plain.svg"
+      alt="jenkins"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://www.vectorlogo.zone/logos/mysql/mysql-original.svg"
+      alt="jenkins"
+      width="40"
+      height="40"
+    />
+     <img
+      src="https://www.vectorlogo.zone/logos/npm/npm-original-wordmark.svg"
+      alt="jenkins"
+      width="40"
+      height="40"
+    />
+     <img
+      src="https://www.vectorlogo.zone/logos/git/git-original.svg"
+      alt="jenkins"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://www.vectorlogo.zone/logos/mongodb/mongodb-original.svg"
+      alt="jenkins"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://www.vectorlogo.zone/logos/python/python-original.svg"
+      alt="jenkins"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://www.vectorlogo.zone/logos/angularjs/angularjs-original.svg"
+      alt="jenkins"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://www.vectorlogo.zone/logos/c/c-original.svg"
+      alt="jenkins"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://www.vectorlogo.zone/logos/jquery/jquery-original.svg"
+      alt="jenkins"
+      width="40"
+      height="40"
+    />
+  
   <a href="https://jestjs.io" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
