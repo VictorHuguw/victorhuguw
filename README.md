@@ -38,6 +38,14 @@
 ![](https://img.shields.io/badge/framework-react-green)
 ![](https://img.shields.io/badge/framework-react-native-green)
 ![](https://img.shields.io/badge/framework-nodejs-green)
+![](https://img.shields.io/badge/framework-ionic-green)
+![](https://img.shields.io/badge/framework-laravel-green)
+![](https://img.shields.io/badge/framework-jungle-green)
+![](https://img.shields.io/badge/framework-bootstrap-green)
+![](https://img.shields.io/badge/database-mysql-green)
+![](https://img.shields.io/badge/database-sqlite-green)
+![](https://img.shields.io/badge/database-mongoDB-green)
+
 
 
 ![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=victorhuguw&show_icons=true&theme=radical)
