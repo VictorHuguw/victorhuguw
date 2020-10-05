@@ -117,13 +117,13 @@
       height="40"
     />
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg"
+      src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg"
       alt="jenkins"
       width="40"
       height="40"
     />
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg"
+      src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
       alt="jenkins"
       width="40"
       height="40"
