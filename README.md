@@ -2,7 +2,7 @@
  
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://raw.githubusercontent.com/VictorHuguw/victorhuguw/main/tumblr_outwxnanpp1u79o2lo1_1280.gif)
 
-### Olá! bem vindo ao meu GitHub
+### Welcome to my git hub repository
 
 - 🔭 Full Stack Developer
 
@@ -22,7 +22,6 @@
   <img align="center" alt="bia-graphql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
   <img align="center" alt="bia-jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
   <img align="center" alt="bia-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  
 </div>
   
  
