@@ -4,15 +4,12 @@
 
 ### Olá! bem vindo ao meu GitHub
 
-- 🔭 Estagiária de Frontend
-- 🌱 Estudando flutter/Vue.js
-- 🎨 Pintora/Desenhista há 12 anos
-- 🏹 Futura desenvolvedora frontend UI/UX Pleno. 
+- 🔭 Full Stack Developer
 
 <div align="center">
-  <a href="https://github.com/engenny">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=engenny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engenny&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/victorhuguw">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorhuguw&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhuguw&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
